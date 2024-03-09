@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Electrical Engineer
 -------------------
 
-I'm currently an Electrical Engineer undergrad, with a minor in robotics and computer science! I am proficient in languages such as C, Python, and MATLAB with an interest in embedded systems.
+I'm currently an Electrical Engineer undergrad, with a minor in robotics and computer science! I am proficient in languages such as C, C++, and MATLAB with an interest in embedded systems.
 
 * 🌍  I'm based in Boston, MA
 * ✉️  You can contact me at [cheryln120@gmail.com](mailto:cheryln120@gmail.com)
